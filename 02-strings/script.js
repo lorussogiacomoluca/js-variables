@@ -8,6 +8,9 @@ console.log(nome);
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
+let number = 28;
+let text = 'Esercizio sulle stringhe';
+let bool = true;
 // Stampa tutti i valori nella console.
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
