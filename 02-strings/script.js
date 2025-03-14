@@ -1,5 +1,6 @@
 // 1. Dichiarazione di variabili
 // Crea una variabile chiamata name e assegnale il tuo nome.
+let nome = 'Giacomo'
 // Stampa il valore di nome nella console.
 
 // 2. Tipi primitivi
